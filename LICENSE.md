@@ -1,4 +1,4 @@
-# 
+# Elite CCleaner plugins for Mac OS | Professional CCleaner plugins for PC Windows. Featuring system information and hotkey support — optimized for maximum performance on every platform.
 
 
 
